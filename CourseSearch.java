@@ -8,7 +8,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
  * Created by Kate on 07/05/2016.
  */
 public class CourseSearch {
-
+/* adding a comment 08/05/2016 */
 
     public String course_title_to_find = null;
 
